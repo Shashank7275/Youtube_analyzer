@@ -1,0 +1,19 @@
+# UI
+streamlit
+
+# AI Agent Framework
+agno
+
+# Google api
+google-genai
+
+
+
+# DuckDuckGo Search
+ddgs
+
+# Environment Variables
+python-dotenv
+
+# Youtube 
+youtube-transcript-api
