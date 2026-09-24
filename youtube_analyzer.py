@@ -1,5 +1,5 @@
 from textwrap import dedent
-from dotenv import load_dotenvvvv
+from dotenv import load_dotenvvv
 
 from agno.agent import Agent
 from agno.models.google import Gemini
